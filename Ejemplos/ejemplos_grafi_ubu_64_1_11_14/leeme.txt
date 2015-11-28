@@ -1,0 +1,9 @@
+Este .tar contiene los ficheros necesarios para los graficos en 
+Ubuntu 14.04 de 64 bits.
+
+Los ficheros api_grafi.h, api_grafi.o y grafi en el directorio
+donde se va a compilar y ejecutar el programa.
+
+El fichero Makefile permite compilar los ejemplos de graficos,
+y equivale a Makefile_linux, pero esta adaptado a Ubuntu 14.04 
+de 64 bits. 

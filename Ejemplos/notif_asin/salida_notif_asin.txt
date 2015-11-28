@@ -1,0 +1,8 @@
+Recibidos 9 mensajes acumulados durante 2 segundos
+Recibidos 9 mensajes que entran libremente durante 2 segundos
+Se ha cambiado el manejador a manejador1, que no vacia la cola
+Recibidos 10 mensajes que entran libremente durante 2 segundos
+Recibidos 1 mensajes acumulados durante 2 segundos
+Recibidos 0 mensajes que entran libremente durante 2 segundos
+Leidos 9 mensajes atascados
+Recibidos 9 mensajes que entran libremente durante 2 segundos
