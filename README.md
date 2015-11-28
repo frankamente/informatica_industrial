@@ -1,2 +1,2 @@
 # informatica_industrial
-Un poquito de Informatica Industrial
+Temario, Examenes de otros años y ejemplos.
